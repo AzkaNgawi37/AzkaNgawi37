@@ -2,8 +2,8 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZnaWZkOTk3NGx0dDlubDZmcHUzZWE1YXpkd2d1ZGk1YTJqc2JzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href='https://api.whatsapp.com/send?phone=6285801214341'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a>
-    <a href='mailto:muhamadiqbal9871@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
+    <a href='https://api.whatsapp.com/send?phone=628817654048'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a>
+    <a href='mailto:azkanawawi99@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
   </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;" />
@@ -19,8 +19,8 @@
 -->
 ### :man_technologist: About Me :
 
-Hi there! I'm Muhammad Iqbal Widodo <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-A Software Engineering student from Purbalingga.
+Hi there! I'm Azka Nawawi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+A Software Engineering student from Patikraja, Banyumas.
 
 - :telescope: Currently focusing on Fullstack Web Development (Frontend & Backend).
 - :video_game: Also a Junior 2D Game Developer using **Godot (GDScript)**.
