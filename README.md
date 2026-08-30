@@ -35,11 +35,11 @@ A Software Engineering student from Patikraja, Banyumas.
 
 ### :fire: My Stats :
 
-![](https://streak-stats.demolab.com/?user=IQBAL-03&theme=dark&hide_border=true&border_radius=20)
+![](https://streak-stats.demolab.com/?user=AzkaNgawi&theme=dark&hide_border=true&border_radius=20)
 
-![](https://github-readme-stats.shion.dev/api?username=IQBAL-03&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.shion.dev/api?username=AzkaNgawi37&show_icons=true&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515&include_all_commits=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IQBAL-03&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/IQBAL-03
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryota&layout=pie&theme=vision-friendly-dark&hide_border=true&border_radius=20&bg_color=151515)](https://github.com/AzkaNgawi37
 )
 <!--
 **prazzon/prazzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
